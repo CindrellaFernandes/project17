@@ -1,0 +1,15 @@
+{
+  "name": "cin",
+  "version": "1.0.0",
+  "description": "node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "devDependencies": {}
+}
